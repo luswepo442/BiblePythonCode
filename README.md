@@ -1,3 +1,1 @@
-# JOptionPane
-# Lucy
-# Lucy
+# BibleTkinter
