@@ -10,7 +10,7 @@ This Python script allows you to look up and display Bible verses from a text fi
 
 ### How to Use
 
-1. **Run the Script**: Execute the Python script `easy gui.py`.
+1. **Run the Script**: Execute the Python script `import easy gui.py`.
   
 2. **Input Book, Chapter, and Verse**:
    - Enter the name of the book of the Bible (e.g., Genesis, Exodus).
