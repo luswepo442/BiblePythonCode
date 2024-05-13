@@ -1,7 +1,5 @@
 #Luswepo Daniel Sinyinza
-#ITI-2540-01
-#Final Project
-# Number of students = 1
+#Personal Project
 
 # Importing necessary modules
 import tkinter as tk
